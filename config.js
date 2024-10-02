@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : Aftab 
+//  * @author : Aftab Official
+//  * @youtube : https://youtube.com/@aftab_0_khan?si=CnSm4cHO1V36Zphz
+//  * @description : Aftab Bot ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//GitHub: @aftab2683
+//WhatsApp: +923015326254
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@aftab_0_khan?si=CnSm4cHO1V36Zphz
+//   * Created By Github: aftab2683.
+//   * Credit To Aftab Official
+//   * © 2024 Aftab bot.
 // ⛥┌┤
 // */
 
